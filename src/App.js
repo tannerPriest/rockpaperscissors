@@ -13,11 +13,14 @@ function App() {
 
   const roll = move => {
     setPlay(true);
+    setPlayerHand("rock")
+    setComputerHand("rock")
+    setMessage("...")
     const compPlay = Math.floor(Math.random() * 3);
-    compareHands(move, computerMoves[compPlay]);
     setTimeout(() => {
+      compareHands(move, computerMoves[compPlay]);
       setPlay(false);
-    }, 2000)
+    }, 1000)
   };
   const setWinner = (message, player, computer) => {
     setMessage(message);

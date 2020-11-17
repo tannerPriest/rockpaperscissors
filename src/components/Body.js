@@ -18,6 +18,7 @@ const Body = (props) => {
             </Grid>
             <Grid container item xs={12} justify="space-between" className={classes.handsBoard}>
                 <PlayerHand {...props} />
+                <Grid item style={{ height: 200 }} />
                 <ComputerHand {...props} />
             </Grid>
             <Grid container item xs={12} justify="space-between" className={classes.messageBoard}>
