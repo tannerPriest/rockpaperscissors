@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RockPaperScissors/static/css/main.df47e60f.chunk.css",
-    "main.js": "/RockPaperScissors/static/js/main.dec4213b.chunk.js",
-    "main.js.map": "/RockPaperScissors/static/js/main.dec4213b.chunk.js.map",
-    "runtime-main.js": "/RockPaperScissors/static/js/runtime-main.6f65eaf0.js",
-    "runtime-main.js.map": "/RockPaperScissors/static/js/runtime-main.6f65eaf0.js.map",
-    "static/js/2.431c4340.chunk.js": "/RockPaperScissors/static/js/2.431c4340.chunk.js",
-    "static/js/2.431c4340.chunk.js.map": "/RockPaperScissors/static/js/2.431c4340.chunk.js.map",
-    "static/js/3.1782cecc.chunk.js": "/RockPaperScissors/static/js/3.1782cecc.chunk.js",
-    "static/js/3.1782cecc.chunk.js.map": "/RockPaperScissors/static/js/3.1782cecc.chunk.js.map",
-    "index.html": "/RockPaperScissors/index.html",
-    "static/css/main.df47e60f.chunk.css.map": "/RockPaperScissors/static/css/main.df47e60f.chunk.css.map",
-    "static/js/2.431c4340.chunk.js.LICENSE.txt": "/RockPaperScissors/static/js/2.431c4340.chunk.js.LICENSE.txt"
+    "main.css": "/rockpaperscissors/static/css/main.df47e60f.chunk.css",
+    "main.js": "/rockpaperscissors/static/js/main.dec4213b.chunk.js",
+    "main.js.map": "/rockpaperscissors/static/js/main.dec4213b.chunk.js.map",
+    "runtime-main.js": "/rockpaperscissors/static/js/runtime-main.a54aabef.js",
+    "runtime-main.js.map": "/rockpaperscissors/static/js/runtime-main.a54aabef.js.map",
+    "static/js/2.431c4340.chunk.js": "/rockpaperscissors/static/js/2.431c4340.chunk.js",
+    "static/js/2.431c4340.chunk.js.map": "/rockpaperscissors/static/js/2.431c4340.chunk.js.map",
+    "static/js/3.1782cecc.chunk.js": "/rockpaperscissors/static/js/3.1782cecc.chunk.js",
+    "static/js/3.1782cecc.chunk.js.map": "/rockpaperscissors/static/js/3.1782cecc.chunk.js.map",
+    "index.html": "/rockpaperscissors/index.html",
+    "static/css/main.df47e60f.chunk.css.map": "/rockpaperscissors/static/css/main.df47e60f.chunk.css.map",
+    "static/js/2.431c4340.chunk.js.LICENSE.txt": "/rockpaperscissors/static/js/2.431c4340.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f65eaf0.js",
+    "static/js/runtime-main.a54aabef.js",
     "static/js/2.431c4340.chunk.js",
     "static/css/main.df47e60f.chunk.css",
     "static/js/main.dec4213b.chunk.js"
